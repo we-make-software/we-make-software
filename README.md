@@ -19,6 +19,7 @@ What's next?
     <td>
       <strong>Role:</strong> ExpiryWorkBase<br>
     </td>
+    </tr>
       <tr style="border: none;">
     <td>
       <img src="https://github.com/we-make-software/TheMailConditioner/blob/main/profile.png" alt="Worker Profile" width="150" 
@@ -30,13 +31,24 @@ What's next?
   </tr>
     <tr style="border: none;">
     <td>
-      <img src="https://github.com/we-make-software/ExpiryWorkBase/blob/main/profile.png" alt="Worker Profile" width="150" 
+      <img src="https://github.com/we-make-software/TheMaintainer/blob/main/profile.png" alt="Worker Profile" width="150" 
            style="border: 3px solid black; border-radius: 10px; padding: 5px;">
     </td>
     <td>
-      <strong>Role:</strong> ExpiryWorkBase<br>
+      <strong>Role:</strong> TheMaintainer<br>
     </td>
-      <tr style="border: none;">
+  </tr>
+    </tr>
+    <tr style="border: none;">
+    <td>
+      <img src="https://github.com/we-make-software/TheRouter/blob/main/profile.png" alt="Worker Profile" width="150" 
+           style="border: 3px solid black; border-radius: 10px; padding: 5px;">
+    </td>
+    <td>
+      <strong>Role:</strong> TheRouter<br>
+    </td>
+  </tr>
+  <tr style="border: none;">
     <td>
       <img src="https://github.com/we-make-software/ThePostOffice/blob/main/profile.png" alt="Worker Profile" width="150" 
            style="border: 3px solid black; border-radius: 10px; padding: 5px;">
